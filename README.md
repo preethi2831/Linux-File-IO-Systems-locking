@@ -1,3 +1,7 @@
+```
+NAME : PREETHIKA
+REG NO : 212223040130
+```
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
